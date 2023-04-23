@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+pickle
+folium
+streamlit_folium
+sklearn.metrics.pairwise
+scikit-learn
